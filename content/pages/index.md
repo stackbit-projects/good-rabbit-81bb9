@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Excellent Industrial Training Institute
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      *We provide the best computer and industrial training courses by industry
+      experts*
     actions:
       - label: Learn More
         url: /features
