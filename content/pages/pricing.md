@@ -39,7 +39,7 @@ sections:
           *   Disaster Management Plan
           *   Legal Legislation on Safety
           *   Practical
-        highlight: true
+        highlight: false
         actions:
           - label: Register Now
             url: /signup
