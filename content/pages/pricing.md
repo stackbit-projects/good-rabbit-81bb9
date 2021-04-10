@@ -28,7 +28,7 @@ sections:
             url: /signup
             style: secondary
         price: '₹ 40,000'
-        title: Advance Diploma in Safety
+        title: 10 months
       - title: PG Diploma in Fire
         subtitle: For medium-sized businesses
         price: $49/m
