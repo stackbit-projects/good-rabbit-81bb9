@@ -28,7 +28,7 @@ sections:
           - label: Register Now
             url: /signup
             style: secondary
-        price: '40,000₹'
+        price: '₹40,000'
       - title: Professional
         subtitle: For medium-sized businesses
         price: $49/m
