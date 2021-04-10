@@ -71,6 +71,7 @@ sections:
       - label: Register Now
         url: /signup
         style: primary
+    title: sfds
   - section_id: recent-posts
     type: section_posts
     background: gray
