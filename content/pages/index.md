@@ -17,7 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Facilites
+    title: Excellent Industrial Training Institute
     features:
       - image: images/super-pluto.jpeg
         image_alt: App preview on a phone and tablet
