@@ -123,7 +123,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: PG Diploma in Road Traffic Safety
-        subtitle: lorem-ipsum
+        subtitle: 12 months
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
