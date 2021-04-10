@@ -67,7 +67,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     actions:
-      - label: +91-9304143237
+      - label: 'Call Now : +91-9304143237'
         style: primary
         has_icon: false
         icon: arrow-right
