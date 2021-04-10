@@ -82,7 +82,7 @@ sections:
     title: PG Diploma
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: P.G. Diploma in Fire & Safety Management
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
