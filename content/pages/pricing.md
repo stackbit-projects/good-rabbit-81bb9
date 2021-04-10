@@ -7,11 +7,23 @@ sections:
     subtitle: Industrial Safety Courses
     pricing_plans:
       - subtitle: Advance Diploma in Safety
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: >
+          *   Get a degree from one best-known university in India for HSE /
+          Industrial Safety Programs.
+
+
+          *   Additional qualification will help you move to managerial
+          positions in various organizations
+
+
+          *   Work in manufacturing, Oil & Gas, Airlines, Logistics,
+          event/sports management, IT companies, consulting firms, audit
+          agencies, international research & HSE companies
+
+
+          *   You can work across multiple functions like operations, corporate
+          planning, audit & compliance, consulting & strategy, research &
+          training and deployment
         actions:
           - label: Order Now
             url: /signup
