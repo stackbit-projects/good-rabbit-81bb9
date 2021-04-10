@@ -69,6 +69,7 @@ sections:
     actions:
       - label: Register Now
         style: primary
+        has_icon: true
     title: Want to know more about us?
 seo:
   title: Stackbit Azimuth Theme
