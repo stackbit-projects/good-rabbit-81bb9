@@ -71,7 +71,7 @@ sections:
       - label: Register Now
         url: /signup
         style: primary
-    title: 'Take '
+    title: Want to know more about us?
   - section_id: recent-posts
     type: section_posts
     background: gray
