@@ -4,7 +4,6 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    subtitle: Industrial Safety Courses
     pricing_plans:
       - details: |
           *   Industrial Safety Management
