@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     pricing_plans:
-      - details: |
+      - details:
           *   Industrial Safety Management
 
           *   Safety In Engineering Industries
