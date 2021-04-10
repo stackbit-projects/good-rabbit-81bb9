@@ -29,7 +29,7 @@ sections:
             style: secondary
         price: '₹ 40,000'
         title: Diploma in Fire and Safety Management
-        subtitle: '10+2passed or Above,12 months'
+        subtitle: 12 months
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: lorem-ipsum
