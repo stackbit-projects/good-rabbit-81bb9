@@ -22,10 +22,7 @@ sections:
 
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
       sed justo tempor condimentum.
-    actions:
-      - label: View Demo
-        url: '#'
-        style: secondary
+    actions: []
 seo:
   title: Features
   description: This is the features page
