@@ -10,6 +10,8 @@ sections:
 
           10+2 passed or Above
 
+          #### Eligibility:
+
           *   Industrial Safety
 
           *   Safety in Construction Activities
