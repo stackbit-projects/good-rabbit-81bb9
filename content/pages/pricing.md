@@ -83,7 +83,7 @@ sections:
     background: gray
     pricing_plans:
       - title: P.G. Diploma in Fire & Safety Management
-        subtitle: lorem-ipsum
+        subtitle: 12 months
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
