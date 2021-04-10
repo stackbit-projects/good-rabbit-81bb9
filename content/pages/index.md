@@ -68,7 +68,6 @@ sections:
     type: section_cta
     actions:
       - label: Register Now
-        url: /signup
         style: primary
     title: Want to know more about us?
 seo:
