@@ -24,8 +24,8 @@ export default class Page extends React.Component {
                     <img src={withPrefix(_.get(this.props, 'page.frontmatter.image', null))} alt={_.get(this.props, 'page.frontmatter.image_alt', null)} />
                   </div>
                   )}
-                  <div className="post-content" width=>
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzflg_ixIMg2J6XsQXDKzy0Lv7kTIhzkgJ_V2tRIPAZ_QoIQ/viewform?embedded=true" width="640" height="983" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                  <div className="post-content">
+                    {markdownify(_.get(this.props, 'page.markdown', null))}
                   </div>
                 </article>
               </div>
