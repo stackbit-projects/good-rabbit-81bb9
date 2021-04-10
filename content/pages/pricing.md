@@ -61,6 +61,7 @@ sections:
           - label: Register Now
             url: /signup
             style: secondary
+    title: Diploma
   - section_id: faq
     type: section_faq
     background: gray
