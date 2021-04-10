@@ -12,6 +12,8 @@ sections:
 
           #### Course Content:
 
+          *   Fire Engineering
+
           *   Industrial Safety
 
           *   Safety in Construction Activities
