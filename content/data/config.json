@@ -35,11 +35,6 @@
                 "style": "link"
             },
             {
-                "label": "About Us",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Register",
                 "url": "/signup",
                 "style": "primary"
