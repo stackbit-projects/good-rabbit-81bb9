@@ -104,7 +104,7 @@ sections:
         type: pricing_plan
       - title: P.G. Diploma in Health & Safety Environment
         subtitle: 12 months
-        price: lorem-ipsum
+        price: '₹ 60,000'
         details: >-
           ## Lorem ipsum
 
