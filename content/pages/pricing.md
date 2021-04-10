@@ -48,7 +48,7 @@ sections:
           - label: Register Now
             url: /signup
             style: primary
-      - title: Industrial Safety Management
+      - title: Diploma in Road Traffic Safety
         subtitle: 12 months
         price: '₹ 40,000'
         details: |-
