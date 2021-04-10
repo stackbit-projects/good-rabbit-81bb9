@@ -68,7 +68,7 @@ sections:
     type: section_cta
     actions:
       - label: Register Now
-        style: primary
+        style: secondary
     title: Want to know more about us?
 seo:
   title: Stackbit Azimuth Theme
