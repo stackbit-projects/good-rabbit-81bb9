@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/10.jpg
+    image: images/banner.jpeg
     image_alt: App preview
     title: Excellent Industrial Training Institute
     content: >
