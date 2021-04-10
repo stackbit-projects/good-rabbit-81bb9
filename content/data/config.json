@@ -76,7 +76,7 @@
             },
             {
                 "type": "footer_form",
-                "title": "Subscribe",
+                "title": "Contact Us",
                 "content": "Stay up to date with our latest developments.",
                 "form_id": "contactForm",
                 "hide_labels": true,
