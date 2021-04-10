@@ -4,7 +4,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: Industrial Safety Courses
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
