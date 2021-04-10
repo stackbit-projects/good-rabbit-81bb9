@@ -5,7 +5,8 @@ sections:
     type: section_pricing
     background: gray
     pricing_plans:
-      - details:
+      - details: |
+          test
         actions:
           - label: Register Now
             url: /signup
