@@ -25,19 +25,19 @@ sections:
       - image: images/super-pluto.jpeg
         image_alt: App preview on a phone and tablet
         content: |
-          ##### Air conditioner classrooms
+          ###### Air conditioner classrooms
 
-          ##### Fully interactive(smart classes)
+          ###### Fully interactive(smart classes)
 
-          ##### Experienced Teachers from their respected fields
+          ###### Experienced Teachers from their respected fields
 
-          ##### Practical demos on monthly and weekly bases
+          ###### Practical demos on monthly and weekly bases
 
-          ##### Free high-speed wifi for students
+          ###### Free high-speed wifi for students
 
-          ##### Site visits
+          ###### Site visits
 
-          ##### Guest lectures from industry experts
+          ###### Guest lectures from industry experts
         actions:
           - label: Learn More
             url: /facilities
