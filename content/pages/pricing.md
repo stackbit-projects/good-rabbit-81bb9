@@ -30,6 +30,23 @@ sections:
         price: '₹ 40,000'
         title: Diploma in Fire and Safety Management
         subtitle: 12 months
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        price: lorem-ipsum
+        details: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        highlight: false
+        actions: []
+        type: pricing_plan
       - title: PG Diploma in Fire
         subtitle: 12 months
         price: '₹ 40,000'
