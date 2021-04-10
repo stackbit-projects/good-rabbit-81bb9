@@ -124,7 +124,7 @@ sections:
         type: pricing_plan
       - title: PG Diploma in Road Traffic Safety
         subtitle: 12 months
-        price: lorem-ipsum
+        price: '₹ 60,000'
         details: >-
           ## Lorem ipsum
 
