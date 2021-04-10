@@ -7,21 +7,30 @@ sections:
     image: images/BeFunky-collage.jpg
     image_alt: App preview on a phone and tablet
     title: Placements in Reputed Companies
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      After Completion of courses provided by us, a person can get job
+      opportunities in Various MNC companies in the fire and safety field like:
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      1.  Safety Supervisor
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      2.  Safety Officer
+
+
+      3.  Fire Man
+
+
+      4.  Fire Officer
+
+
+      5.  Leading hand Fireman
+
+
+      6.  Fire tender Driver cum Operator
+
+
+      7.  Asst. Safety Manager
     actions: []
 seo:
   title: Features
