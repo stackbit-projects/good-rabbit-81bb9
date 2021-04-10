@@ -26,12 +26,6 @@ sections:
         price: '₹ 40,000'
         title: Diploma in Fire and Safety Management
         subtitle: 12 months
-      - title: Diploma in Health & Safety Environment
-        subtitle: 12 months
-        price: '₹ 40,000'
-        highlight: false
-        actions: []
-        type: pricing_plan
       - title: PG Diploma in Fire
         subtitle: 12 months
         price: '₹ 40,000'
