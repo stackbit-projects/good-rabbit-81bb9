@@ -10,7 +10,7 @@ sections:
       *We provide the best computer and industrial training courses by industry
       experts*
     actions:
-      - label: Checkout Cou
+      - label: Checkout Courses Now
         url: /pricing
         style: primary
   - section_id: features
