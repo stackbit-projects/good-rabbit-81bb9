@@ -22,9 +22,6 @@ sections:
 
       ##### Guest lectures from industry experts
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: View Demo
         url: '#'
         style: secondary
