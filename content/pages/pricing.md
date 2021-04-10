@@ -103,7 +103,7 @@ sections:
         actions:
           - label: Register
             url: '#'
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
