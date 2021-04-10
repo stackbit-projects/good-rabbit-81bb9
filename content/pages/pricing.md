@@ -53,7 +53,7 @@ sections:
           * Mauris eleifend sapien
           * Phasellus lobortis risus laoreet quam
         actions:
-          - label: Order Now
+          - label: Register Now
             url: /signup
             style: secondary
   - section_id: faq
