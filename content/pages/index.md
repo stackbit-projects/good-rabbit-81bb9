@@ -69,7 +69,7 @@ sections:
     actions:
       - label: +91-9304143237
         style: primary
-        has_icon: true
+        has_icon: false
         icon: arrow-right
     title: Want to know more about us?
 seo:
