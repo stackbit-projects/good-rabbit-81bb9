@@ -29,7 +29,7 @@ sections:
             style: secondary
         price: '₹ 40,000'
         title: Advance Diploma in Safety
-        subtitle: 10 months
+        subtitle: 12 months
       - title: PG Diploma in Fire
         subtitle: 12 months
         price: '₹ 40,000'
