@@ -10,7 +10,7 @@ sections:
 
           10+2 passed or Above
 
-          #### Eligibility:
+          #### Course Content:
 
           *   Industrial Safety
 
