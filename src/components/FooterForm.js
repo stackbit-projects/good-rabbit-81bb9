@@ -16,7 +16,6 @@ export default class FooterForm extends React.Component {
                 <form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)} {...(_.get(section, 'form_action', null) ? ({ action: _.get(section, 'form_action', null) }) : null)} method="POST" data-netlify="true"
                     data-netlify-honeypot={_.get(section, 'form_id', null) + '-bot-field'}>
                     <div className="screen-reader-text">
-
                     </div>
                     <input aria-labelledby={_.get(section, 'form_id', null) + '-honeypot-label'} type="hidden" name="form-name"
                         value={_.get(section, 'form_id', null)} />
