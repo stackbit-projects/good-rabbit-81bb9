@@ -67,7 +67,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     actions:
-      - label: Register Now
+      - label: +91-9304143237
         style: primary
         has_icon: true
         icon: arrow-right
