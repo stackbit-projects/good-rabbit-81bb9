@@ -49,6 +49,33 @@ sections:
         content: >
           We provide various diploma and post-diploma courses in Industrial
           Safety
+
+
+          #### Diploma
+
+
+          *   Fire and Safety Management
+
+
+          *   Health & Safety Management
+
+
+          *   Road Traffic Safety
+
+
+          #### PG Diploma
+
+
+          *   Fire and Safety Management
+
+
+          *   Health & Safety Management
+
+
+          *   Road Traffic Safety
+
+
+          ####
         actions:
           - label: Learn More
             url: /features
