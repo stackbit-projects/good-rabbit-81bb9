@@ -66,7 +66,6 @@ sections:
             icon_position: right
   - section_id: call-to-action
     type: section_cta
-    subtitle: This is an optional description for the call to action block.
     actions:
       - label: Register Now
         url: /signup
