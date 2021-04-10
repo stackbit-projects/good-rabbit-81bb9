@@ -27,7 +27,7 @@ sections:
         title: Diploma in Fire and Safety Management
         subtitle: 12 months
       - title: Diploma in Health & Safety Environment
-        subtitle: lorem-ipsum
+        subtitle: 12 months
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
