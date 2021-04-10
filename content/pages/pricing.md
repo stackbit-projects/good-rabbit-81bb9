@@ -7,7 +7,6 @@ sections:
     subtitle: Industrial Safety Courses
     pricing_plans:
       - subtitle: Advance Diploma in Safety
-        price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
