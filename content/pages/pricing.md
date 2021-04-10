@@ -128,7 +128,7 @@ sections:
         details: |
           #### Eligibility:
 
-          10th passed or I.T.I. or above with Science
+          Any graduate
 
           #### Course Contents
 
