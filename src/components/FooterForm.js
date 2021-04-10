@@ -29,7 +29,6 @@ export default class FooterForm extends React.Component {
                 </div>
                 ))}
                 <div className="form-row">
-                  <button type="submit" className="button">{_.get(section, 'submit_label', null)}</button>
                 </div>
               </form>
             </section>
