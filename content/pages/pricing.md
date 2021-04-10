@@ -32,7 +32,7 @@ sections:
         subtitle: 10 months
       - title: PG Diploma in Fire
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: '₹ 40,000'
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
