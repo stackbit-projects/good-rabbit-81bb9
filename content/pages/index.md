@@ -46,10 +46,9 @@ sections:
       - title: Safety Courses
         image: images/WhatsApp Image 2021-04-04 at 8.00.17 PM.jpeg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          We provide various diploma and post-diploma courses in Industrial
+          Safety
         actions:
           - label: Learn More
             url: /features
