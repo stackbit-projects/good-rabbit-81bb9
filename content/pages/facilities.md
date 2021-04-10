@@ -7,21 +7,21 @@ sections:
     image: images/WhatsApp Image 2021-04-04 at 7.56.46 PM.jpeg
     image_alt: App preview on a phone and tablet
     title: Available Facilities
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: |+
+      > Air conditioner classrooms
 
+      > Fully interactive(smart classes)
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      > Experienced Teachers from their respected fields 
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      > Practical demos on monthly and weekly bases
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      > Free high-speed wifi for students 
 
+      > Site visits
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      > Guest lectures from industry experts
+
     actions:
       - label: Free Trial
         url: /signup
