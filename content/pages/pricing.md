@@ -6,7 +6,15 @@ sections:
     background: gray
     pricing_plans:
       - details: |
-          test
+          Eligibility:
+
+          10+2 passed or Above
+
+          *   Industrial Safety
+
+          *   Safety in Construction Activities
+
+          *   Occupational Health & Safety
         actions:
           - label: Register Now
             url: /signup
