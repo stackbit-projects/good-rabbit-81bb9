@@ -62,7 +62,7 @@ sections:
             style: secondary
     title: Diploma
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: PG Diploma
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []
