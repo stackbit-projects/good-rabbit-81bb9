@@ -24,7 +24,7 @@ export default class Page extends React.Component {
                     <img src={withPrefix(_.get(this.props, 'page.frontmatter.image', null))} alt={_.get(this.props, 'page.frontmatter.image_alt', null)} />
                   </div>
                   )}
-                  <div className="post-content" >
+                  <div className="post-content" width="640">
                     {markdownify(_.get(this.props, 'page.markdown', null))}
                   </div>
                 </article>
