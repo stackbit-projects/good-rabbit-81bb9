@@ -103,7 +103,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: P.G. Diploma in Health & Safety Environment
-        subtitle: lorem-ipsum
+        subtitle: 12 months
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
