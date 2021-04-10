@@ -30,15 +30,19 @@ sections:
         subtitle: 12 months
         price: '₹ 40,000'
         details: |
-          *   Fire & Safety Engineering
-          *   Industrial Safety 
-          *   Occupational & Health Safety 
-          *   Construction Safety
-          *   Electrical Safety
-          *   Environmental Safety 
-          *   Disaster Management Plan
-          *   Legal Legislation on Safety
-          *   Practical
+          #### Eligibility
+
+          10+2 passed or Above
+
+          #### Course Content:
+
+          *   Fire Engineering
+
+          *   Industrial Safety
+
+          *   Safety in Construction Activities
+
+          *   Occupational Health & Safety
         highlight: false
         actions:
           - label: Register Now
