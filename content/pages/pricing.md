@@ -29,17 +29,20 @@ sections:
       - title: Diploma in Health & Safety Environment
         subtitle: 12 months
         price: '₹ 40,000'
-        details: >-
-          ## Lorem ipsum
+        details: |
+          #### Eligibility:
 
+          10th passed or I.T.I. or Above with Science
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          #### Course Content:
 
+          *   Industrial Safety
 
-          - Lorem ipsum
+          *   Construction Safety
 
-          - dolor sit amet
+          *   Occupational Health
+
+          *   Environment & Pollution
         highlight: false
         actions: []
         type: pricing_plan
