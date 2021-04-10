@@ -32,17 +32,17 @@ sections:
         details: |
           #### Eligibility
 
-          10+2 passed or Above
+          10th passed or I.T.I. or above with Science
 
           #### Course Content:
 
-          *   Fire Engineering
-
           *   Industrial Safety
 
-          *   Safety in Construction Activities
+          *   Construction Safety
 
-          *   Occupational Health & Safety
+          *   Occupational Health
+
+          *   Environment & Pollution
         highlight: false
         actions:
           - label: Register Now
