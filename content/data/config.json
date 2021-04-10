@@ -75,36 +75,6 @@
                 ]
             },
             {
-                "type": "footer_nav",
-                "title": "Community",
-                "nav_links": [
-                    {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "twitter",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "linkedin",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "GitHub",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "github",
-                        "icon_position": "left"
-                    }
-                ]
-            },
-            {
                 "type": "footer_form",
                 "title": "Subscribe",
                 "content": "Stay up to date with our latest developments.",
