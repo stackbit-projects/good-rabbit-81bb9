@@ -102,7 +102,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: P.G. Diploma in Health & Safety Environment
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
