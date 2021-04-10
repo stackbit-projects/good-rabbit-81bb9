@@ -51,11 +51,28 @@ sections:
       - title: Diploma in Road Traffic Safety
         subtitle: 12 months
         price: '₹ 40,000'
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          #### Eligibility:
+
+          10th passed or I.T.I. or above with Science
+
+          #### Course Contents
+
+          *   Health Safety and Environment Management Systems
+
+          *   Traffic regulation systems and Road signage safety systems
+
+          *   Safe vehicle tracking
+
+          *   Basics of Accident statistics
+
+          *   Introduction to Defensive Driving
+
+          *   Employee Health Care Plan.
+
+          *   Safety Management Structure.
+
+          *   Safety Analysis and Risk Assessment.
         actions:
           - label: Register Now
             url: /signup
