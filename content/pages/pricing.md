@@ -128,7 +128,7 @@ sections:
         details: |
           #### Eligibility:
 
-          Any graduate
+          Any Graduate
 
           #### Course Contents
 
