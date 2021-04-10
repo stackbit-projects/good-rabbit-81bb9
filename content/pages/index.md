@@ -25,10 +25,20 @@ sections:
       - title: The Best Feature of Your Services
         image: images/super-pluto.jpeg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |
+          ##### Air conditioner classrooms
+
+          ##### Fully interactive(smart classes)
+
+          ##### Experienced Teachers from their respected fields
+
+          ##### Practical demos on monthly and weekly bases
+
+          ##### Free high-speed wifi for students
+
+          ##### Site visits
+
+          ##### Guest lectures from industry experts
         actions:
           - label: Learn More
             url: /facilities
