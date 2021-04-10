@@ -130,7 +130,7 @@ sections:
           *   Environment & Pollution
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Register
             url: '#'
             style: link
             has_icon: false
