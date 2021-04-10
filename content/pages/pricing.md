@@ -102,7 +102,7 @@ sections:
         highlight: false
         actions:
           - label: Register
-            url: '#'
+            url: /signup
             style: primary
             has_icon: false
             icon: arrow-left
