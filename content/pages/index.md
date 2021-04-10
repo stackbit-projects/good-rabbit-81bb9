@@ -42,6 +42,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        title: Facilities
       - title: Awesome Feature of Your Services
         image: images/WhatsApp Image 2021-04-04 at 8.00.17 PM.jpeg
         image_alt: App users welcoming a new member
