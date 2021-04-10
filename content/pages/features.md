@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/BeFunky-collage.jpg
     image_alt: App preview on a phone and tablet
     title: Placements in Reputed Companies
     content: >-
