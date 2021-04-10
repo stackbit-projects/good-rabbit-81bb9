@@ -125,17 +125,24 @@ sections:
       - title: PG Diploma in Road Traffic Safety
         subtitle: 12 months
         price: '₹ 60,000'
-        details: >-
-          ## Lorem ipsum
+        details: |
+          #### Eligibility:
 
+          10th passed or I.T.I. or above with Science
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          #### Course Contents
 
+          *   Health Safety and Environment Management Systems
 
-          - Lorem ipsum
+          *   Road Construction Safety
 
-          - dolor sit amet
+          *   Traffic Management
+
+          *   First Aid for Road Health Hazards
+
+          *   Energy Control Programs
+
+          *   Signals and Controlling
         highlight: false
         actions: []
         type: pricing_plan
