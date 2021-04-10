@@ -28,7 +28,7 @@ sections:
             url: /signup
             style: secondary
         price: '₹ 40,000'
-        title: Advance Diploma in Safety
+        title: Diploma in Fire and Safety Management
         subtitle: 12 months
       - title: PG Diploma in Fire
         subtitle: 12 months
