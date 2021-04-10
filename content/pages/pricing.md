@@ -28,7 +28,7 @@ sections:
         subtitle: 12 months
       - title: Diploma in Health & Safety Environment
         subtitle: 12 months
-        price: lorem-ipsum
+        price: '₹ 40,000'
         details: >-
           ## Lorem ipsum
 
