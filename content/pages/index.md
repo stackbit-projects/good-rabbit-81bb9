@@ -13,7 +13,7 @@ sections:
       - label: Checkout Courses Now
         url: /pricing
         style: primary
-        has_icon: true
+        has_icon: false
   - section_id: features
     type: section_features
     background: gray
