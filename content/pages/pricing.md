@@ -122,7 +122,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: PG Diploma in Road Traffic Safety
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
