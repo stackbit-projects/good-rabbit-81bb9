@@ -5,24 +5,8 @@ sections:
     type: section_pricing
     background: gray
     pricing_plans:
-      - details: |
-          *   Industrial Safety Management
-
-          *   Safety In Engineering Industries
-
-          *   Construction Safety
-
-          *   Chemical & Process Safety Management
-
-          *   Environmental Management
-
-          *   Quality Control In Occupational Safety & Health
-
-          *   Safety Health & Environmental Legislation
-
-          *   Industrial Hygiene & Occupational Health
-
-          *   Project (Practical)
+      - details:
+            
         actions:
           - label: Register Now
             url: /signup
