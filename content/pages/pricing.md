@@ -6,8 +6,7 @@ sections:
     background: gray
     subtitle: Industrial Safety Courses
     pricing_plans:
-      - title: Basic
-        subtitle: For small businesses
+      - subtitle: For small businesses
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
