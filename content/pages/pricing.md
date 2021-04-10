@@ -31,7 +31,7 @@ sections:
         title: Advance Diploma in Safety
         subtitle: 10 months
       - title: PG Diploma in Fire
-        subtitle: For medium-sized businesses
+        subtitle: 1 year
         price: '₹ 40,000'
         details: |-
           * Curabitur non nunc mollis
