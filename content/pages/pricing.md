@@ -85,17 +85,20 @@ sections:
       - title: P.G. Diploma in Fire & Safety Management
         subtitle: 12 months
         price: '₹ 60,000'
-        details: >-
-          ## Lorem ipsum
+        details: |
+          #### Eligibility:
 
+          Any Graduate 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          #### Course Contents:
 
+          *   Fire Engineering 
 
-          - Lorem ipsum
+          *   Construction Safety
 
-          - dolor sit amet
+          *   Industrial Safety
+
+          *   Occupational Health & Environment
         highlight: false
         actions: []
         type: pricing_plan
