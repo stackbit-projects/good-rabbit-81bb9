@@ -25,7 +25,7 @@ sections:
           planning, audit & compliance, consulting & strategy, research &
           training and deployment
         actions:
-          - label: Order Now
+          - label: Register Now
             url: /signup
             style: secondary
         price: '40,000₹'
