@@ -69,7 +69,7 @@ sections:
     title: Want to know more about us?
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Register Now
         url: /signup
         style: primary
   - section_id: recent-posts
