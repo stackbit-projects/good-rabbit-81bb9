@@ -41,7 +41,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
+          - label: Register Now
             url: /signup
             style: primary
       - title: Industrial Safety Management
