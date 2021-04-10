@@ -6,8 +6,7 @@ sections:
     background: gray
     subtitle: Industrial Safety Courses
     pricing_plans:
-      - subtitle: Advance Diploma in Safety
-        details: >
+      - details: >
           *   Get a degree from one best-known university in India for HSE /
           Industrial Safety Programs.
 
