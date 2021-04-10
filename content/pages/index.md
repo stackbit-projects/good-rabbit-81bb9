@@ -66,7 +66,6 @@ sections:
             icon_position: right
   - section_id: call-to-action
     type: section_cta
-    title: Ready to start your carrrier in Safety?
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Register Now
