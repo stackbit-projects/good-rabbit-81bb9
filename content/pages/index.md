@@ -11,7 +11,7 @@ sections:
       experts*
     actions:
       - label: Learn More
-        url: /features
+        url: //pricing
         style: primary
   - section_id: features
     type: section_features
