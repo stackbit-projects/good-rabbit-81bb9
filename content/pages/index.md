@@ -18,9 +18,6 @@ sections:
     type: section_features
     background: gray
     title: Facilites
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     features:
       - image: images/super-pluto.jpeg
         image_alt: App preview on a phone and tablet
