@@ -84,7 +84,7 @@ sections:
     pricing_plans:
       - title: P.G. Diploma in Fire & Safety Management
         subtitle: 12 months
-        price: '60,'
+        price: '₹ 60,000'
         details: >-
           ## Lorem ipsum
 
