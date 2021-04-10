@@ -83,10 +83,31 @@ sections:
       - title: Affilications and Placements
         image: images/melodic-triceratops.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          After Completion of courses provided by us, a person can get job
+          opportunities in Various MNC companies in the fire and safety field
+          like:
+
+
+          1.  Safety Supervisor
+
+
+          2.  Safety Officer
+
+
+          3.  Fire Man
+
+
+          4.  Fire Officer
+
+
+          5.  Leading hand Fireman
+
+
+          6.  Fire tender Driver cum Operator
+
+
+          7.  Asst. Safety Manager
         actions:
           - label: Learn More
             url: /features
