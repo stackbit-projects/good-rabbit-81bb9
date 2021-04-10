@@ -26,7 +26,7 @@ sections:
         price: '₹ 40,000'
         title: Diploma in Fire and Safety Management
         subtitle: 12 months
-      - title: lorem-ipsum
+      - title: Diploma in Health & Safety Environment
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
