@@ -27,6 +27,15 @@ sections:
           - label: Register Now
             url: /signup
             style: secondary
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         price: '₹ 40,000'
         title: Diploma in Fire and Safety Management
         subtitle: 12 months
