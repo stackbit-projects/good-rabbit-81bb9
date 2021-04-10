@@ -44,7 +44,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: Industrial Safety Management
         subtitle: For very large businesses
         price: '₹ 40,000'
         details: |-
