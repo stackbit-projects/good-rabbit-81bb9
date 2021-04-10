@@ -34,12 +34,16 @@ sections:
       - title: PG Diploma in Fire
         subtitle: 12 months
         price: '₹ 40,000'
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Fire & Safety Engineering
+          *   Industrial Safety 
+          *   Occupational & Health Safety 
+          *   Construction Safety
+          *   Electrical Safety
+          *   Environmental Safety 
+          *   Disaster Management Plan
+          *   Legal Legislation on Safety
+          *   Practical
         highlight: true
         actions:
           - label: Register Now
