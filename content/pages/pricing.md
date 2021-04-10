@@ -45,7 +45,7 @@ sections:
             url: /signup
             style: primary
       - title: Industrial Safety Management
-        subtitle: For very large businesses
+        subtitle: 12 months
         price: '₹ 40,000'
         details: |-
           * Vestibulum non eros quis
