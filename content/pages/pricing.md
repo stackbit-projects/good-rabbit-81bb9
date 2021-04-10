@@ -6,7 +6,7 @@ sections:
     background: gray
     pricing_plans:
       - details: |
-          Eligibility:
+          #### Eligibility:
 
           10+2 passed or Above
 
