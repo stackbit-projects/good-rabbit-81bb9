@@ -6,23 +6,24 @@ sections:
     background: gray
     subtitle: Industrial Safety Courses
     pricing_plans:
-      - details: >
-          *   Get a degree from one best-known university in India for HSE /
-          Industrial Safety Programs.
+      - details: |
+          *   Industrial Safety Management
 
+          *   Safety In Engineering Industries
 
-          *   Additional qualification will help you move to managerial
-          positions in various organizations
+          *   Construction Safety
 
+          *   Chemical & Process Safety Management
 
-          *   Work in manufacturing, Oil & Gas, Airlines, Logistics,
-          event/sports management, IT companies, consulting firms, audit
-          agencies, international research & HSE companies
+          *   Environmental Management
 
+          *   Quality Control In Occupational Safety & Health
 
-          *   You can work across multiple functions like operations, corporate
-          planning, audit & compliance, consulting & strategy, research &
-          training and deployment
+          *   Safety Health & Environmental Legislation
+
+          *   Industrial Hygiene & Occupational Health
+
+          *   Project (Practical)
         actions:
           - label: Register Now
             url: /signup
