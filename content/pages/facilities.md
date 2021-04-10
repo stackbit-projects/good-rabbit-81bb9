@@ -21,10 +21,7 @@ sections:
       ##### Site visits
 
       ##### Guest lectures from industry experts
-    actions:
-      - label: View Demo
-        url: '#'
-        style: secondary
+    actions: []
 seo:
   title: Features
   description: This is the features page
