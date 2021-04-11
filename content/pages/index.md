@@ -122,6 +122,7 @@ sections:
         style: primary
         has_icon: false
         icon: arrow-right
+        url: 'http://wa.me/919523995459'
     title: Want to know more about us?
 seo:
   title: Stackbit Azimuth Theme
