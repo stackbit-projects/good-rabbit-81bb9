@@ -118,7 +118,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     actions:
-      - label: 'Whatsapp '
+      - label: Whatsapp Us Now
         style: primary
         has_icon: false
         icon: arrow-right
